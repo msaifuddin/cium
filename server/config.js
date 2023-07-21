@@ -165,7 +165,7 @@ const conf = convict({
   },
   base_url: {
     format: 'url',
-    default: 'https://send.example.com',
+    default: 'https://cium.net',
     env: 'BASE_URL'
   },
   custom_title: {
@@ -175,7 +175,7 @@ const conf = convict({
   },
   custom_description: {
     format: String,
-    default: 'Encrypt and send files with a link that automatically expires to ensure your important documents don’t stay online forever.',
+    default: 'Secure, encrypted file sharing with automatic expiry.',
     env: 'CUSTOM_DESCRIPTION'
   },
   detect_base_url: {
@@ -240,7 +240,7 @@ const conf = convict({
   },
   footer_cli_url: {
     format: String,
-    default: 'https://github.com/timvisee/ffsend',
+    default: 'https://cium.net',
     env: 'SEND_FOOTER_CLI_URL'
   },
   footer_dmca_url: {
@@ -250,7 +250,7 @@ const conf = convict({
   },
   footer_source_url: {
     format: String,
-    default: 'https://github.com/timvisee/send',
+    default: 'https://cium.net',
     env: 'SEND_FOOTER_SOURCE_URL'
   },
   custom_footer_text: {
