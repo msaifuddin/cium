@@ -1,4 +1,4 @@
-title = Send
+title = CIUM
 importingFile = Importing…
 encryptingFile = Encrypting…
 decryptingFile = Decrypting…
@@ -22,7 +22,7 @@ fileTooBig = That file is too big to upload. It should be less than { $size }
 linkExpiredAlt = Link expired
 notSupportedHeader = Your browser is not supported.
 notSupportedLink = Why is my browser not supported?
-notSupportedOutdatedDetail = Unfortunately this version of Firefox does not support the web technology that powers Send. You’ll need to update your browser.
+notSupportedOutdatedDetail = Unfortunately this version of Firefox does not support the web technology that powers CIUM. You’ll need to update your browser.
 updateFirefox = Update Firefox
 deletePopupCancel = Cancel
 deleteButtonHover = Delete
@@ -32,7 +32,7 @@ footerLinkCli = CLI
 footerLinkDmca = DMCA
 footerLinkSource = Source
 passwordTryAgain = Incorrect password. Try again.
-javascriptRequired = Send requires JavaScript
+javascriptRequired = CIUM requires JavaScript
 whyJavascript = Why does Send require JavaScript?
 enableJavascript = Please enable JavaScript and try again.
 # A short representation of a countdown timer containing the number of hours and minutes remaining as digits, example "13h 47m"
@@ -46,13 +46,13 @@ passwordSetError = This password could not be set
 
 ## Send version 2 strings
 
--send-brand = Send
--send-short-brand = Send
+-send-brand = CIUM
+-send-short-brand = CIUM
 -firefox = Firefox
 -mozilla = Mozilla
 
-introTitle = Simple, private file sharing
-introDescription = { -send-brand } lets you share files with end-to-end encryption and a link that automatically expires. So you can keep what you share private and make sure your stuff doesn’t stay online forever.
+introTitle = Secure, Simple, Private
+introDescription = { -send-brand } offers secure, temporary file sharing with end-to-end encryption. Only the link recipient can view the files, ensuring the utmost privacy.
 notifyUploadEncryptDone = Your file is encrypted and ready to send
 # downloadCount is from the downloadCount string and timespan is a timespanMinutes string. ex. 'Expires after 2 downloads or 25 minutes'
 archiveExpiryInfo = Expires after { $downloadCount } or { $timespan }
