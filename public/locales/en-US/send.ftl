@@ -16,7 +16,7 @@ unlockButtonLabel = Unlock
 downloadButtonLabel = Download
 downloadFinish = Download complete
 fileSizeProgress = ({ $partialSize } of { $totalSize })
-sendYourFilesLink = Try Send
+sendYourFilesLink = CIUM!
 errorPageHeader = Something went wrong!
 fileTooBig = That file is too big to upload. It should be less than { $size }
 linkExpiredAlt = Link expired
@@ -33,7 +33,7 @@ footerLinkDmca = DMCA
 footerLinkSource = Source
 passwordTryAgain = Incorrect password. Try again.
 javascriptRequired = CIUM requires JavaScript
-whyJavascript = Why does Send require JavaScript?
+whyJavascript = Why does CIUM require JavaScript?
 enableJavascript = Please enable JavaScript and try again.
 # A short representation of a countdown timer containing the number of hours and minutes remaining as digits, example "13h 47m"
 expiresHoursMinutes = { $hours }h { $minutes }m
